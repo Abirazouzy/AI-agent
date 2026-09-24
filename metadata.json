@@ -1,0 +1,6 @@
+{
+  "name": "El-Agent AI — Social Media & Engagement Copilot",
+  "description": "AI agent for small businesses in Tunisia and worldwide. Plan, schedule viral content, and automate bilingual customer engagement in French, English, and Derja.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
